@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ThomasLisson77
+- 👀 I’m interested in Microsoft XRM
+- 🌱 I’m currently learning PCF
